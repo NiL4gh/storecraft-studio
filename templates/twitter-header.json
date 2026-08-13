@@ -1,0 +1,10 @@
+{
+  "preset": "twitter-header-1500x500",
+  "theme": "ocean",
+  "layout": "widescreen-showcase",
+  "headline": "StoreCraft Studio",
+  "subtitle": "AI agents can now make design assets. Just JSON in, PNG out.",
+  "badge": "MCP Server",
+  "accentColor": "#1DA1F2",
+  "features": ["Agent-Ready", "Open Source", "No API Keys"]
+}

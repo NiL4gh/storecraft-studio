@@ -1,0 +1,10 @@
+{
+  "preset": "marketplace-hero-1080p",
+  "theme": "cyberpunk",
+  "layout": "hero-centered",
+  "headline": "Ship faster with AI-powered design",
+  "subtitle": "Generate marketing assets from JSON configs. No design skills needed.",
+  "badge": "New Release",
+  "accentColor": "#FF6B35",
+  "features": ["35+ Platform Presets", "MCP Native", "Zero API Keys"]
+}

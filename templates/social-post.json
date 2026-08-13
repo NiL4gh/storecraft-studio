@@ -1,0 +1,14 @@
+{
+  "preset": "instagram-post",
+  "theme": "obsidian-indigo",
+  "layout": "hero-centered",
+  "kicker": "NEW RELEASE",
+  "headline": "StoreCraft Studio v1.0",
+  "subtitle": "AI-agent design automation. JSON in, high-res PNGs out.",
+  "badges": [
+    { "text": "MCP PROTOCOL", "bg": "rgba(99, 102, 241, 0.15)", "color": "#6366f1" },
+    { "text": "FREE & OPEN", "bg": "rgba(52, 211, 153, 0.15)", "color": "#34d399" }
+  ],
+  "gridEnabled": true,
+  "framePadding": 48
+}

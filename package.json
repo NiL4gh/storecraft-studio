@@ -1,0 +1,22 @@
+{
+  "name": "storecraft-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI-agent design studio — MCP server + CLI for generating banners, social posts, covers, and marketplace assets",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "render": "node cli.js render",
+    "mcp": "node mcp-server.js",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1",
+    "jszip": "^3.10.1"
+  },
+  "devDependencies": {
+    "playwright": "^1.49.1",
+    "vite": "^6.0.7"
+  }
+}

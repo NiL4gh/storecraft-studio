@@ -1,0 +1,18 @@
+{
+  "preset": "cws-screenshot",
+  "theme": "swiss-dark",
+  "layout": "hero-centered",
+  "kicker": "Chrome Web Store",
+  "headline": "StockVector Exporter Pro",
+  "subtitle": "Batch export AI-generated SVG assets from Adobe Illustrator with one click.",
+  "badges": [
+    { "text": "ADOBE ILLUSTRATOR", "bg": "rgba(245, 158, 11, 0.15)", "color": "#f59e0b" },
+    { "text": "BATCH EXPORT", "bg": "rgba(99, 102, 241, 0.15)", "color": "#6366f1" }
+  ],
+  "frameTitle": "Adobe Illustrator — StockVector Exporter Pro",
+  "callouts": [
+    { "icon": "📁", "title": "Smart Folders", "desc": "Auto-sort exports by platform" },
+    { "icon": "🔧", "title": "Custom Regex", "desc": "Rename files with patterns" },
+    { "icon": "📊", "title": "Batch Queue", "desc": "Process 100+ files at once" }
+  ]
+}

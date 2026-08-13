@@ -1,0 +1,20 @@
+{
+  "preset": "marketplace-hero-1080p",
+  "theme": "swiss-light",
+  "layout": "split-feature-right",
+  "kicker": "StoreCraft Studio",
+  "headline": "Design automation for AI agents",
+  "subtitle": "Generate marketplace banners, social posts, and covers from a single JSON config. No manual editing required.",
+  "badges": [
+    { "text": "30+ PLATFORM SIZES", "bg": "#fef3c7", "color": "#d97706" },
+    { "text": "8 COLOR THEMES", "bg": "#dbeafe", "color": "#2563eb" },
+    { "text": "MCP + CLI", "bg": "#d1fae5", "color": "#059669" }
+  ],
+  "callouts": [
+    { "icon": "🎯", "title": "Platform Presets", "desc": "Gumroad, Envato, CWS, Instagram, Twitter, LinkedIn, and more" },
+    { "icon": "🎨", "title": "Theme Engine", "desc": "Swiss Light, Dark Slate, Obsidian Indigo, Ocean Blue, and 4 more" },
+    { "icon": "⚡", "title": "MCP Server", "desc": "AI agents generate JSON, tool renders high-res PNGs" }
+  ],
+  "frameTitle": "StoreCraft Studio — Design Preview",
+  "caption1": "ACTIVE DESIGN RUNTIME"
+}

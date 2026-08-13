@@ -1,0 +1,10 @@
+{
+  "preset": "linkedin-1200x627",
+  "theme": "obsidian",
+  "layout": "split-feature-left",
+  "headline": "Introducing StoreCraft Studio",
+  "subtitle": "The first MCP server for AI agents to generate design assets autonomously",
+  "badge": "Open Source",
+  "accentColor": "#0077B5",
+  "features": ["MCP Protocol", "35+ Presets", "Deterministic Rendering"]
+}
