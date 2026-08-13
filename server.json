@@ -1,0 +1,38 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.NiL4gh/storecraft-studio",
+  "title": "StoreCraft Studio",
+  "description": "Turns JSON configs into high-res design assets (banners, social posts, marketplace screenshots) via Canvas 2D. Deterministic, no API keys.",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/NiL4gh/storecraft-studio",
+    "source": "github"
+  },
+  "packages": [],
+  "tools": [
+    {
+      "name": "list_presets",
+      "description": "List all available design presets (sizes/platforms): Marketplace, Chrome Web Store, Social Media, OpenGraph, Banners, Presentations."
+    },
+    {
+      "name": "list_themes",
+      "description": "List all available color themes (8 curated palettes)."
+    },
+    {
+      "name": "render_design",
+      "description": "Render a design from a JSON config (preset, theme, layout, headline, subtitle, badges, callouts) to a high-res PNG file via Playwright + Canvas 2D."
+    },
+    {
+      "name": "save_template",
+      "description": "Save a design config as a reusable JSON template."
+    },
+    {
+      "name": "load_template",
+      "description": "Load a previously saved JSON template by name."
+    },
+    {
+      "name": "list_templates",
+      "description": "List all saved JSON templates."
+    }
+  ]
+}
